@@ -1,0 +1,21 @@
+Download Lisensi Scripnya Disini : https://sfile.mobi/5fhMgskcJad
+
+Download cara agar tidak cp saat login disini : https://sfile.mobi/bbadGEN0s07
+
+$ pkg update && pkg upgrade
+
+$pkg install python2
+
+$pkg install git
+
+$pip2 install mechanize
+
+$pip2 install requests
+
+$git clone https://github.com/kangcoli/coli
+
+$ls
+
+$cd coli
+
+$python2 coli.py
